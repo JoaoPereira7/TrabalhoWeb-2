@@ -45,3 +45,12 @@ require-dir: Serve para nós auxiliar com os diretórios.
 OBS: Bom professor, nós conseguimos fazer tudo que o senhor havia ensinado durantes as aulas, todas as ações do crud deu certo, mas durante o trabalho fiquei pesquisando o que mais fazer para o backend, pensei que encontraria mais coisas que o senhor ainda não tinha ensinado/mostrado durante as aulas, mas não achei mais nada que o professor ensinou, pelo menos eu não encontrei pela net. Outra coisa professor o github, não deixou fazer upload da pasta node_modules, ele reclama que tem mais de 100 arquivos, ai não sobe para o github.
 
 Não deu para gravar a tela do computador, tinha baixado um aplicativo, mas na hora de renderizar ele dava erro, o video ficava corrompido e áudio não estava saindo, aí optamos por gravar no celular mesmo.
+
+
+Links da apresentação
+
+GitHub: https://github.com/JoaoPereira7/TrabalhoWeb-2.git
+
+Youtube: https://www.youtube.com/watch?v=-o58K-bQ8I8&feature=youtu.be // João Pereira
+
+		 https://www.youtube.com/watch?v=oly-UwcZGa4&feature=youtu.be // Malleck Ravyn 
