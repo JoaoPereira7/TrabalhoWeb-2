@@ -32,3 +32,14 @@ Tema: Sistema de vendas de espadas.
 10 -> Excluindo um ou mais produtos e usuários no Insomnia, e buscando para ver se foi realmente deletado.
 
 11 -> Checando na aplicação Robo 3T, ele serve para vermos o que tem no nosso banco de dados, e para verificação dos nossos produtos e usuários.
+
+Sobre as dependencies, eu instalei as que o professor mostrou em aulas, são elas:
+
+express: Serve para otimizar a construção de aplicações web e Api's.
+
+mongoose: Serve para se conectar com o MongoDB.
+
+require-dir: Serve para nós auxiliar com os diretórios.
+
+
+OBS: Bom professor, nós conseguimos fazer tudo que o senhor havia ensinado durantes as aulas, todas as ações do crud deu certo, mas durante o trabalho fiquei pesquisando o que mais fazer para o backend, pensei que encontraria mais coisas que o senhor ainda não tinha ensinado/mostrado durante as aulas, mas não achei mais nada que o professor ensinou, pelo menos eu não encontrei pela net. Outra coisa professor o github, não deixou fazer upload da pasta node_modules, ele reclama que tem mais de 100 arquivos, ai não sobe para o github.
